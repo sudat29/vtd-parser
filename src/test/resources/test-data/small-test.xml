@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <element attribute1="value1" attribute2="value2">Content 1</element>
+    <element attribute1="value1">Content 2</element>
+    <element attribute1="value3">
+        <childElement name="child1">Child Content1</childElement>
+        <childElement name="child2">Child Content2</childElement>
+    </element>
+    <element attribute="value4" />
+</root>
